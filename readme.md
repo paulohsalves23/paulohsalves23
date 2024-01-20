@@ -7,7 +7,8 @@
 2. Comer
 3. Dormir
 4. Ouvir músicas
-4.~~Academia~~ 🤮
+4. ~~Academia~~ 🤮
+
 **Nem sempre nessa ordem**
 
 ### Minhas metas:
