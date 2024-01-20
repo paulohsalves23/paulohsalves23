@@ -2,7 +2,6 @@
 ## Gestão Empresarial
 ## Técnico em Química
 
-
 ### Meus hobbies
 1. Ler
 2. Comer
@@ -14,6 +13,6 @@
 ### Minhas metas:
 - [x] Me inscrever num curso no Senai
 - [x] Aprender lógica de programação
-- [ ] Dominar o mundo...
+- [ ] Dominar o mundo...!
 
 
