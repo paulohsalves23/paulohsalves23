@@ -1,6 +1,6 @@
 # Paulo Alves
-## Gestão Empresarial
-## Técnico em Química
+## Gestão Empresarial 🖳
+## Técnico em Química ⚛︎
 
 ### Meus hobbies
 1. Ler
